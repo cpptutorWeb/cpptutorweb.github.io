@@ -31,7 +31,7 @@ twitter_username:
 github_username:  cpptutorWeb
 
 # Build settings
-theme: minima
+theme: Hacker
 plugins:
   - jekyll-feed
 
