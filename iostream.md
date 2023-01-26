@@ -94,10 +94,12 @@ int main() {
 > 1. Помимо самого ключевого слова `std::cin` также нужны два знака "больше", после них идет имя переменной, в которую ститываются данные.
 > 2. В конце строк (кроме включения заголовочных файлов и открытия и закрытия фигурных скобок) ставится ";". Отсутствие этого знака приведет к ошибке, поэтому за его постановкой стоит внимательно следить.
 
-<div data-pym-src=
-"https://www.jdoodle.com/embed/v0/2IhG?stdin=1&arg=0">
-</div>
-<script src=
-"https://www.jdoodle.com/assets/jdoodle-pym.min.js"
-        type="text/javascript">
-</script>
+Теперь осуществим вывод конечного сообщения
+
+<body>
+  <div data-pym-src='https://www.jdoodle.com/plugin' data-language="java"
+    data-version-index="4" data-libs="mavenlib1, mavenlib2">
+    Optional default code goes here
+  </div>
+  <script src="https://www.jdoodle.com/assets/jdoodle-pym.min.js" type="text/javascript"></script>
+</body>
